@@ -1,0 +1,6 @@
+/home/huangxin/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/huangxin/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/213.5744.254/bin/ninja/linux/ninja -G Ninja /home/huangxin/code/cpp/CS106L-Fall2019
+    -- src/CMakeCXXCompilerId.cpp will be compiled to bin/CMakeCXXCompilerId
+    -- src/main.cpp will be compiled to bin/main
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/huangxin/code/cpp/CS106L-Fall2019/cmake-build-debug
